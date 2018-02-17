@@ -1,0 +1,11 @@
+.main-wrapper {
+    display: block;
+    position: absolute;
+    height: auto;
+    overflow: auto;
+    white-space: nowrap;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+}

@@ -1,0 +1,5 @@
+[class^="MuiMenuItem"],[class^='MuiTable'],[class^='MuiTypography'],
+[class^='Pagination'],[class^='PageSizeSelector'],[class^='SortingControl'],
+[class^='MuiButtonBase'],[class^='MuiTooltip'],[class^='c'] {
+    font-size: inherit !important;
+}
